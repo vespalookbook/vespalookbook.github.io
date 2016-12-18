@@ -16,6 +16,5 @@ $('div').spectragram({
     query: 'converse',
     max: 14,
     size: 'big',
-    wrapEachWith: '<p></p>',
-    complete: alert('Done!');
+    wrapEachWith: '<p></p>'
 });
