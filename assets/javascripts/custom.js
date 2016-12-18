@@ -2,7 +2,8 @@
     var feed = new Instafeed({
         get: 'user',
         userId: '4112109893',
-        accessToken: '73b25502a1c24cd4aa8aac6547951ab8'
+        accessToken: '56c79e7c896b43dda4ff9f7536174232'
     });
     feed.run();
 // });
+
