@@ -13,7 +13,7 @@ jQuery.fn.spectragram.accessData = {
 };
 
 $('div').spectragram({
-    query: 'vespalookbool',
+    query: 'adrianengine',
     max: 14,
     size: 'big',
     wrapEachWith: '<p></p>'
