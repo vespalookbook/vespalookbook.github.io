@@ -1,0 +1,43 @@
+html,
+button,
+input,
+select,
+textarea {
+    color: #fff;
+}
+body {
+  background: #000;
+  margin: 0;
+  font-size: 14px;
+  font-weight: 300;
+}
+::-moz-selection {
+    background: #fff;
+    color: #000;
+    text-shadow: none;
+}
+::selection {
+    background: #fff;
+    color: #000;
+    text-shadow: none;
+}
+
+@media screen and (max-width:920px) {
+
+}
+
+@media screen and (max-width:768px) {
+
+}
+
+@media screen and (max-width:568px) {
+
+}
+
+@media screen and (max-width:480px) {
+
+}
+
+@media screen and (max-width:330px) {
+
+}
