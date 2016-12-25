@@ -9,7 +9,7 @@
   From: İzmir, Turkey
 
 # SITE
-  Last update: 2016/17/12
+  Last update: 2016/25/12
   Language: English
   Doctype: HTML5, CSS3
   IDE: Photoshop, Illustrator, Sublime Text2, GitHub
