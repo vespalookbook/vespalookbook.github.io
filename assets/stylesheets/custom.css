@@ -23,7 +23,7 @@ body {
     color: #000;
     text-shadow: none;
 }
-.headerwrap {position: absolute;width: 100%; top:0;left: 0;right: 0;}
+.headerwrap {position: absolute;width: 100%; top:0;left: 0;right: 0;background: #000;}
 .header {padding: 15px; color: #fff;font-size: 14px;font-weight: 400;}
 .header a{color: #fff;font-size: 14px;display: inline-block;font-weight: 700;}
 iframe {width: 100vw;height: 100vh;border: 0;}
